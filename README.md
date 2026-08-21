@@ -43,9 +43,6 @@
   <a href="https://www.linkedin.com/in/guilhermepedroso-/">
     <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Pedroso-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:guiwpedroso@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
 </p>
 
 ---
