@@ -67,6 +67,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:087EAD,100:050A12" width="100%" alt="Footer banner" />
 
-⭐ Thanks for visiting my profile!
+⭐ Ty for visiting my profile!
 
 </div>
