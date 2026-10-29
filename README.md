@@ -16,6 +16,21 @@
 
 
 ---
+## 🏅 Certifications & Badges
+
+<div align="center">
+
+<a href="https://www.credly.com/go/pqACWCg1">
+  <img src="https://img.shields.io/badge/AWS%20Academy-Microservices%20%26%20CI%2FCD-0D1117?style=for-the-badge&logo=amazonaws&logoColor=43D9FF" alt="AWS Academy Microservices and CI/CD Badge" />
+</a>
+
+<br/>
+
+**AWS Academy Graduate – Microservices and CI/CD Pipeline Builder**
+
+[Verify Credential on Credly](https://www.credly.com/go/pqACWCg1)
+
+</div>
 
 ## 🛠️ Technologies & Tools
 
