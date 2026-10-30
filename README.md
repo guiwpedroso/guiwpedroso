@@ -33,7 +33,9 @@
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/ITA%C3%9A-Java%20%26%20Artificial%20Intelligence-0D1117?style=for-the-badge&logo=java&logoColor=43D9FF" alt="Itaú Java with Artificial Intelligence Bootcamp" />
+<a href="https://hermes.dio.me/certificates/YUZZZA5F.pdf">
+  <img src="https://img.shields.io/badge/ITA%C3%9A-Java%20%26%20Artificial%20Intelligence-0D1117?style=for-the-badge&logo=java&logoColor=43D9FF" alt="Itaú Java with Artificial Intelligence Bootcamp" />
+</a>
 
 <br/>
 
@@ -41,10 +43,9 @@
 
 45 hours · DIO · October 2026
 
-Certificate Code: `YUZZZA5F`
+[View Certificate](https://hermes.dio.me/certificates/YUZZZA5F.pdf)
 
 </div>
-
 ## 🛠️ Technologies & Tools
 
 ### Front-end
