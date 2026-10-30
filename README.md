@@ -30,6 +30,19 @@
 
 [Verify Credential on Credly](https://www.credly.com/go/pqACWCg1)
 
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/ITA%C3%9A-Java%20%26%20Artificial%20Intelligence-0D1117?style=for-the-badge&logo=java&logoColor=43D9FF" alt="Itaú Java with Artificial Intelligence Bootcamp" />
+
+<br/>
+
+**Itaú – Java with Artificial Intelligence Bootcamp**
+
+45 hours · DIO · October 2026
+
+Certificate Code: `YUZZZA5F`
+
 </div>
 
 ## 🛠️ Technologies & Tools
