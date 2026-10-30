@@ -46,6 +46,9 @@
 [View Certificate](https://hermes.dio.me/certificates/YUZZZA5F.pdf)
 
 </div>
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### Front-end
