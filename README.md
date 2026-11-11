@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050A12,50:0B2038,100:087EAD&text=Guilherme%20Pedroso&fontColor=EAFBFF&fontSize=42&fontAlignY=50&animation=fadeIn" alt="Guilherme Pedroso banner" />
 
@@ -99,12 +100,15 @@
 
 ## 📫 Contact
 
-<p>
+<p align="center">
   <a href="https://github.com/guiwpedroso">
     <img src="https://img.shields.io/badge/GitHub-View%20Profile-0D1117?style=for-the-badge&logo=github&logoColor=43D9FF" alt="GitHub profile" />
   </a>
   <a href="https://www.linkedin.com/in/guilhermepedroso-/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=43D9FF" alt="LinkedIn profile" />
+  </a>
+  <a href="mailto:guiwpedroso@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-0D1117?style=for-the-badge&logo=gmail&logoColor=43D9FF" alt="Email contact" />
   </a>
 </p>
 
