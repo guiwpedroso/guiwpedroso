@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-<a href="assets/certificates/fatec-front-end.png">
+<a href="assets/certificates/certificado%20front.PDF">
   <img src="https://img.shields.io/badge/FATEC-FRONT--END%20DEVELOPER-0D1117?style=for-the-badge&logo=html5&logoColor=43D9FF" alt="FATEC Front-End Developer Certificate" />
 </a>
 
@@ -58,7 +58,7 @@
 
 640 hours · FATEC Luiz Marchesan · November 2026
 
-[View Certificate](assets/certificates/fatec-front-end.png)
+[View Certificate](assets/certificates/certificado%20front.PDF)
 
 </div>
 
