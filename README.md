@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050A12,50:0B2038,100:087EAD&text=Guilherme%20Pedroso&fontColor=EAFBFF&fontSize=42&fontAlignY=50&animation=fadeIn" alt="Guilherme Pedroso banner" />
 
@@ -14,8 +14,8 @@
 
 🚀 Currently building projects and improving my skills.
 
-
 ---
+
 ## 🏅 Certifications & Badges
 
 <div align="center">
@@ -44,6 +44,21 @@
 45 hours · DIO · October 2026
 
 [View Certificate](https://hermes.dio.me/certificates/YUZZZA5F.pdf)
+
+<br/>
+<br/>
+
+<a href="assets/certificates/fatec-front-end.png">
+  <img src="https://img.shields.io/badge/FATEC-FRONT--END%20DEVELOPER-0D1117?style=for-the-badge&logo=html5&logoColor=43D9FF" alt="FATEC Front-End Developer Certificate" />
+</a>
+
+<br/>
+
+**FATEC – Front-End Developer Qualification**
+
+640 hours · FATEC Luiz Marchesan · November 2026
+
+[View Certificate](assets/certificates/fatec-front-end.png)
 
 </div>
 
